@@ -1,0 +1,9 @@
+numpy
+scipy
+polars
+lets-plot
+scikit-learn
+prince
+hdbscan
+seaborn
+statsmodels
